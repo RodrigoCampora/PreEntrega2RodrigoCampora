@@ -200,6 +200,30 @@
     background-image: url(../images/tajamar\ con\ agua.jpg);
 }
 
+
+/******************servicio*******************/
+
+.servicio1 {
+    height: 20rem;
+    margin: 3rem;
+    width: 34rem;
+    background-color: rgb(49, 49, 49);
+    border-color: rgb(212, 255, 0);
+    border-radius: 2%;
+    border-width: 0.1rem;
+    border-style: solid;
+}
+
+.servicio2 {
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+.br {
+    margin: 1rem;
+    padding: 1rem;
+}
+
 /******************responsive*******************/
 
 /******************responsive*******************/
